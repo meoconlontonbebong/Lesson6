@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Lesson6</string>
+    <string name="txt_example">example</string>
+    <string name="todo">TODO</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="phone_name">Phone Name</string>
 </resources>
